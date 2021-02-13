@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RoTour
+- 👀 I’m interested in Web & Mobile development
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking for an internship as Web or Mobile developer
+- 📫 How to reach me : robin.tourne@ynov.com
