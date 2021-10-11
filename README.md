@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rotour&label=Profile%20views&color=0e75b6&style=flat" alt="rotour" /> </p>
 
-- 🌱 I’m currently learning **FLUTTER**
+- 🌱 I’m currently learning **React**
 
 - 📄 Know about my experiences [https://robin-tourne.herokuapp.com](https://robin-tourne.herokuapp.com)
 
