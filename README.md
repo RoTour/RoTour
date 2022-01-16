@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📄 Know about my experiences [https://robin-tourne.herokuapp.com](https://robin-tourne.herokuapp.com)
+- 📄 Check out my portfolio <a href="https://portfolio.rotour.codes">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
