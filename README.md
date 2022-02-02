@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rotour&label=Profile%20views&color=0e75b6&style=flat" alt="rotour" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nest.js, Next.js, Nx Monorepo**
 
 - 📄 Check out my portfolio <a href="https://portfolio.rotour.codes">here</a>
 
