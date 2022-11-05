@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin TOURNÉ</h1>
-<h3 align="center">Bachelor 3, CS Student at TOULOUSE YNOV CAMPUS</h3>
+<h3 align="center">Master 1 WebDev & DevOps at TOULOUSE YNOV CAMPUS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rotour&label=Profile%20views&color=0e75b6&style=flat" alt="rotour" /> </p>
 
