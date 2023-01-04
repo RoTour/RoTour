@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nest.js, Next.js, Nx Monorepo**
 
-- 📄 Check out my portfolio <a href="https://portfolio.rotour.codes">here</a>
+- 📄 Check out my portfolio <a href="https://rotour.codes">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
