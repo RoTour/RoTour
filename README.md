@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SvelteKit, AWS**
 
-- 📄 Check out my portfolio <a href="https://rotour.codes">here</a>
+- 📄 Check out my portfolio <a href="https://rotour.dev">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
