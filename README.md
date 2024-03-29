@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Robin TOURNÉ</h1>
-<h3 align="center">Master 1 WebDev & DevOps at TOULOUSE YNOV CAMPUS</h3>
+<h3 align="center">Master 2 WebDev & DevOps at TOULOUSE YNOV CAMPUS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rotour&label=Profile%20views&color=0e75b6&style=flat" alt="rotour" /> </p>
 
-- 🌱 I’m currently learning **SvelteKit, AWS**
+- 🌱 I’m currently learning **Software Architecture Principles (Clean Architecture)**
 
 - 📄 Check out my portfolio <a href="https://rotour.dev">here</a>
 
