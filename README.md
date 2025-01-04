@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin TOURNÉ</h1>
-<h3 align="center">Master 2 WebDev & DevOps at TOULOUSE YNOV CAMPUS</h3>
+<h3 align="center">Expert Web Developer, devops engineer, WebDev Instructor <a href="https://raltech.school/en">@raltech_scholl</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rotour&label=Profile%20views&color=0e75b6&style=flat" alt="rotour" /> </p>
 
