@@ -23,7 +23,7 @@
 ---
 
 
-I'm a Fullstack Engineer and Software Architect with 6+ years of experience, passionate about building robust and scalable applications. My focus is on clean architecture (SOLID, DDD, Hexagonal) and DevOps. I've engineered systems to handle 50,000+ concurrent users and have a deep background in PostgreSQL optimization, AWS, and CI/CD pipelines.
+I'm a Fullstack Engineer and Software Architect with 5+ years of experience, passionate about building robust and scalable applications. My focus is on clean architecture (SOLID, DDD, Hexagonal) and DevOps. I've engineered systems to handle 50,000+ concurrent users and have a deep background in PostgreSQL optimization, AWS, and CI/CD pipelines.
 
 I'm also the founder of RALTech, an online school where I teach everything from fundamental HTML/CSS to advanced software architecture and VPS administration.
 
