@@ -10,7 +10,7 @@
 </p>
 
 ---
-> I’m currently based in France and willing to relocate to Toronto, ON, Canada (Express Entry in progress) to join a team that values craftsmanship, autonomy, and system design excellence.
+> 🇨🇦 I’m currently based in France and willing to relocate to Toronto, ON, Canada (Express Entry in progress) to join a team that values craftsmanship, autonomy, and system design excellence.
 
 💡 I'm a Fullstack Engineer and Software Architect with 5+ years of experience, passionate about building robust and scalable applications. My focus is on clean architecture (SOLID, DDD, Hexagonal) and DevOps. I've engineered systems to handle 50,000+ concurrent users and have a deep background in PostgreSQL optimization, AWS, and CI/CD pipelines.
 
