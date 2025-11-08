@@ -10,12 +10,10 @@
 </p>
 
 ---
-
+> I’m currently based in France and willing to relocate to Toronto, ON, Canada (Express Entry in progress) to join a team that values craftsmanship, autonomy, and system design excellence.
 
 💡 I'm a Fullstack Engineer and Software Architect with 5+ years of experience, passionate about building robust and scalable applications. My focus is on clean architecture (SOLID, DDD, Hexagonal) and DevOps. I've engineered systems to handle 50,000+ concurrent users and have a deep background in PostgreSQL optimization, AWS, and CI/CD pipelines.
 
 🎓 I'm also the founder of RALTech School, an online web development school where I teach everything from fundamental HTML/CSS to advanced software architecture and VPS administration.
 
 📌 There are so many projects I worked on, checkout my pinned projects for a selection of my favorite ones
-
-I’m currently based in France and willing to relocate to Toronto, ON, Canada, with teams who value craftsmanship, autonomy, and system design excellence.
