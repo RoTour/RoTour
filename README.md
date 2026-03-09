@@ -3,7 +3,7 @@
 <p align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rotour&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
   <a target="_blank" href="https://rotour.dev">Portfolio</a> •
-  <a target="_blank" href="https://coderonin.raltech.school">Coderonin</a> •
+  <a target="_blank" href="https://coderonin.rotour.dev">Coderonin</a> •
   <a target="_blank" href="https://raltech.school">RALTech School</a> •
   <a target="_blank" href="https://x.com/Rotourdev">Twitter/X</a>  •
   <a target="_blank" href="https://www.linkedin.com/in/robintourne-rotour">LinkedIn</a>
